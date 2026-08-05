@@ -1,0 +1,6 @@
+{
+  "name": "Heather's Application Train",
+  "description": "An interactive distance readout and train journey analytics tool.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
